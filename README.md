@@ -1,0 +1,2 @@
+# lulusan-masama
+Aplikasi Lulusan
